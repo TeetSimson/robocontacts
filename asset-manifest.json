@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robocontacts/static/css/main.e8ccbae0.chunk.css",
+    "main.js": "/robocontacts/static/js/main.d2942538.chunk.js",
+    "main.js.map": "/robocontacts/static/js/main.d2942538.chunk.js.map",
+    "runtime-main.js": "/robocontacts/static/js/runtime-main.dacbc032.js",
+    "runtime-main.js.map": "/robocontacts/static/js/runtime-main.dacbc032.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robocontacts/static/css/2.31461e4f.chunk.css",
+    "static/js/2.b9ece4c7.chunk.js": "/robocontacts/static/js/2.b9ece4c7.chunk.js",
+    "static/js/2.b9ece4c7.chunk.js.map": "/robocontacts/static/js/2.b9ece4c7.chunk.js.map",
+    "static/js/3.87686526.chunk.js": "/robocontacts/static/js/3.87686526.chunk.js",
+    "static/js/3.87686526.chunk.js.map": "/robocontacts/static/js/3.87686526.chunk.js.map",
+    "index.html": "/robocontacts/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robocontacts/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.e8ccbae0.chunk.css.map": "/robocontacts/static/css/main.e8ccbae0.chunk.css.map",
+    "static/js/2.b9ece4c7.chunk.js.LICENSE.txt": "/robocontacts/static/js/2.b9ece4c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dacbc032.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.b9ece4c7.chunk.js",
+    "static/css/main.e8ccbae0.chunk.css",
+    "static/js/main.d2942538.chunk.js"
+  ]
+}

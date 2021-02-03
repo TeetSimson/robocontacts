@@ -1,5 +1,6 @@
 {
-  "name": "robofriends",
+  "name": "robocontacts",
+  "homepage": "https://teetsimson.github.io/robocontacts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
